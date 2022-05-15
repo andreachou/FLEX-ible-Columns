@@ -9,7 +9,7 @@ Using what we've learned about the ```flex``` property, recreate the following c
 * ```.col-2```
 * ```.col-3```
 
-![reference](./reference.mp4)
+![reference](./reference.gif)
 
 
 ### Part I
